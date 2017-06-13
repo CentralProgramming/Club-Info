@@ -13,3 +13,5 @@ Download and run the clubInfo program to learn more about Programming Club next 
 ### Sample Problems
 
 If you'd like to see an example of some of the problems we'll be tackling, you can try recent problems from the [CCC](https://dmoj.ca/problems/?search=17&category=4) and [ECOO](https://dmoj.ca/problems/?search=17&category=2) on [DMOJ](https://dmoj.ca/).
+
+More CCC past contests can be found at [waterloo](https://cemc.math.uwaterloo.ca/contests/past_contests.html)
