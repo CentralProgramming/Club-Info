@@ -4,7 +4,7 @@ public class clubInfo {
 	public static void main(String[] args) throws IOException, InterruptedException{
 		DataInputStream input = new DataInputStream(System.in);
 		
-		System.out.print("Please type your name: ");
+		System.out.print("Please enter your name: ");
 		String name = input.readLine();
 		
 		Thread.sleep(250);
@@ -23,7 +23,7 @@ public class clubInfo {
 		Thread.sleep(1000);
 		System.out.println("\t\u2022 taking on projects");
 		Thread.sleep(1000);
-		System.out.println("\t\u2022 solving programs");
+		System.out.println("\t\u2022 solving problems");
 		Thread.sleep(1000);
 		System.out.println("\t\u2022 class help");
 		
